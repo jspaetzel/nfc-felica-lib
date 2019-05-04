@@ -5,12 +5,11 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    compileSdkVersion 27
 
     defaultConfig {
         minSdkVersion 10
-        targetSdkVersion 25
+        targetSdkVersion 27
     }
 
     compileOptions {
